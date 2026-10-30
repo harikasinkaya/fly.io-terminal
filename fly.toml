@@ -1,0 +1,5 @@
+app = "sshx-ubuntu-app" # Burayı değiştirmeyi unutma
+primary_region = "fra"
+
+[build]
+  dockerfile = "Dockerfile"
